@@ -60,3 +60,11 @@ html {
     margin-top: 25px;
     border-radius: 20px;
 }
+
+
+.hh{
+    background-image: linear-gradient( to right, transparent, grey, transparent);
+    height: 1px;
+    margin: 0;
+    border: none;
+}
