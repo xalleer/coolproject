@@ -69,22 +69,10 @@ html {
 }
 .listTovar{
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
 }
-.btn-filter{display: none}
 
 /*Responsibility*/
-@media(max-width: 1200px){
-    .btn-filter{
-        display: flex;
-        border-radius: 30px;
-        width: 50px;
-        height: 50px;
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 20px;
-    }
-}
 
 @media(max-width: 768px){
 
