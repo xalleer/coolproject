@@ -49,6 +49,7 @@
         }
     }
 
+
     function validFileType(file) {return (file.type);}
 
 </script>
